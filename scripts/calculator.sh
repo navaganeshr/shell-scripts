@@ -9,3 +9,8 @@ SUM=`expr $NUMBER1 + $NUMBER2`
 echo "############################"
 echo "Sum of 2 numbers is : ${SUM}"
 echo "############################"
+
+DIFF=`expr $NUMBER1 - $NUMBER2`
+echo "############################"
+echo "Diff of 2 numbers is : ${DIFF}"
+echo "############################"
