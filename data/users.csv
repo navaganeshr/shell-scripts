@@ -1,4 +1,4 @@
-Name, Age, Adress
-Ramesh, 30, BLR
-Suresh, 50, CHN
-Raj, 30, MUMBAI
+Name, Age, Adress, Salary
+Ramesh, 30, BLR, 3000
+Suresh, 50, CHN,10000
+Raj, 30, MUMBAI,5000
