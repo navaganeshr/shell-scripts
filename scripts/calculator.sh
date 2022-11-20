@@ -1,11 +1,13 @@
-#!/bin/bash 
+#!/bin/bash
 
-NUMBER1=$1
-NUMBER2=$2
 
-echo "Number1: ${NUMBER1}"
-echo "Number2: ${NUMBER2}"
-SUM=`expr $NUMBER1 + $NUMBER2`
-echo "############################"
-echo "Sum of 2 numbers is : ${SUM}"
-echo "############################"
+
+
+
+
+num1=10
+num2=20
+
+ans=$((num1 * num2))
+
+echo $ans
