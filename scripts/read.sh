@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "What is your name?"
-read NAME
-echo "Hello, $NAME"
+read NAMEs
+echo "Hello, $NAMEs"
 
